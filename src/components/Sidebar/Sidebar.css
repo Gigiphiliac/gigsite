@@ -3,16 +3,17 @@
   padding: 1em;
 }
 
-.link-list {
-  list-style: none;
+.sidebar-navigation ul {
+  list-style-type: none;
   padding: 0;
 }
 
-.link-item {
-  margin: 10px 0;
+.sidebar-navigation li {
+  margin: 5px 0;
 }
 
-.link-image {
-  width: 24px;
-  height: 24px;
+.sidebar-navigation a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
 }

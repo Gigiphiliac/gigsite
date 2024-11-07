@@ -7,5 +7,9 @@
 }
 
 .home-container > :first-child {
-  max-width: 250px; /* width for sidebar */
+  max-width: 200px; /* width for sidebar */
+}
+
+.home-content-container {
+  margin: 1em;
 }

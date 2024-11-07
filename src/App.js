@@ -13,7 +13,7 @@ function App() {
           element={<Home />}
         />
         
-        {/* ProjectHome route */}
+        {/* ProjectsHome route */}
         <Route
           path="/projects"
           element={<ProjectsHome />}
