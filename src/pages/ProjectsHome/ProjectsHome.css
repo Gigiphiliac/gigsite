@@ -1,0 +1,15 @@
+.projects-home-container {
+  display: flex;
+}
+
+.projects-home-container > * {
+  flex: 1;
+}
+
+.projects-home-container > :first-child {
+  max-width: 200px; /* width for sidebar */
+}
+
+.projects-home-content-container {
+  margin: 1em;
+}

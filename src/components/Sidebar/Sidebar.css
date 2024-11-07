@@ -1,0 +1,18 @@
+.sidebar-container {
+  border-right: 1px solid black;
+  padding: 1em;
+}
+
+.link-list {
+  list-style: none;
+  padding: 0;
+}
+
+.link-item {
+  margin: 10px 0;
+}
+
+.link-image {
+  width: 24px;
+  height: 24px;
+}

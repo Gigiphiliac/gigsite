@@ -1,0 +1,21 @@
+.project-link-image {
+  margin-left: 1em;
+  height: 40px;
+}
+
+.project-skills {
+  margin-top: 10px;
+}
+
+.project-skills ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.project-skills li {
+  background-color: #f0f0f0;
+  display: inline-block;
+  padding: 5px 10px;
+  margin: 5px;
+  border-radius: 5px;
+}

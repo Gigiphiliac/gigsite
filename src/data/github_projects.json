@@ -1,0 +1,101 @@
+[
+    {
+      "id": 1,
+      "name": "Cinema Website",
+      "description": "Across the 4 assignments, I created a cinema website using PHP. This includes developing the frontend and design of the website, UI (header, navbar, footer, main [about us, seats and prices, now showing]), booking page with booking form. In A3, I added navigation programming (scrolling to clicked link location on page), client-side programming (user detail validation, price calculation), server-side programming (passing SESSION data to each page, booking page with movie in URL, server-side booking validation), booking spreadsheet, receipt page, and tickets (an A4 receipt is generated).",
+      "github_url": "https://github.com/Gigiphiliac/wp",
+      "skills": ["PHP", "JavaScript", "HTML/CSS"]
+    },
+    {
+      "id": 2,
+      "name": "MyTimeTable CLI",
+      "description": "A basic CLI Java app, named MyTimeTable. It includes basic OO concepts to accommodate enrolling in a course by searching for a keyword, selecting from a list of matching courses, adding selected courses to a student's course list, displaying all enrolled courses, withdrawing from a course, and exiting the program. Also includes unit tests and exception handling with custom exceptions.",
+      "github_url": "https://github.com/Gigiphiliac/fp-a1",
+      "skills": ["Java", "JUnit"]
+    },
+    {
+      "id": 3,
+      "name": "MyTimeTable GUI",
+      "description": "A GUI app named MyTimeTable, extending fp-a1. It supports multiple user profiles, login, dashboard view, course management (enroll, withdraw, view), course export, password hashing, and a font customization feature. Enforces course enrolment capacity and provides a file export option.",
+      "github_url": "https://github.com/Gigiphiliac/fp-a2",
+      "skills": ["Java w/ MVC design pattern", "JavaFX", "JUnit"]
+    },
+    {
+      "id": 4,
+      "name": "Job Manager Functions",
+      "description": "Implemented functions (addJob and updateJob) with JUnit tests in a small assignment. Used Eclipse IDE and learned about proper .gitignore usage.",
+      "github_url": "https://github.com/Gigiphiliac/job-manager",
+      "skills": ["Java", "JUnit"]
+    },
+    {
+      "id": 5,
+      "name": "Loop Web",
+      "description": "A React website for a cinema company with features like login/registration, a complete UI, profile management, and film review CRUD operations. Data storage is handled with localStorage.",
+      "github_url": "https://github.com/Gigiphiliac/loop-web",
+      "skills": ["ReactJS", "JavaScript", "HTML/CSS"]
+    },
+    {
+      "id": 6,
+      "name": "Loop Web Expansion",
+      "description": "Extended the cinema website with a Cloud MySQL database, user authentication, ticket reservation, and an admin portal for managing content and reviews. Includes hashed passwords, and separate admin access.",
+      "github_url": "https://github.com/rmit-fwp-s2-23/s3952384_loop_web",
+      "skills": ["ReactJS", "Node.js & Express.js with Sequelize ORM", "Cloud MySQL", "Lucidchart", "Unit tests"]
+    },
+    {
+      "id": 7,
+      "name": "Vacuum Game",
+      "description": "A solo C++ assignment for a vacuum game project (no GitHub repository currently available).",
+      "github_url": null,
+      "skills": ["C++"]
+    },
+    {
+      "id": 8,
+      "name": "A2_ABPlus",
+      "description": "A group assignment in C++ that required implementing shell scripts and Makefiles. Worked with a difficult team dynamic.",
+      "github_url": "https://github.com/Gigiphiliac/A2_ABPlus",
+      "skills": ["C++", "Shell", "Makefile", "Group work"]
+    },
+    {
+      "id": 9,
+      "name": "Predator-Prey Game",
+      "description": "Developed a Unity game where the player controls a frog trying to eat flies, avoiding snakes that chase based on their aggro range. Used finite state machines and steering behaviors.",
+      "github_url": "https://github.com/rmit-computing-technologies/gait-2024-a1-Gigiphiliac",
+      "skills": ["C#", "Unity", "Steering Behaviours", "Finite State Machines"]
+    },
+    {
+      "id": 10,
+      "name": "Predator-Prey Game w/ Search Algorithms",
+      "description": "Extended the predator-prey game using A* and Monte Carlo Tree Search (MCTS) algorithms. Part 1 involved A* pathfinding and part 2 developed MCTS for a Connect4 game.",
+      "github_url": "https://github.com/rmit-computing-technologies/gait-2024-a2-Gigiphiliac",
+      "skills": ["C#", "Unity", "A* algorithm", "Monte Carlo Tree Search"]
+    },
+    {
+      "id": 11,
+      "name": "Connect4 and Space Invaders w/ RL",
+      "description": "A group project on reinforcement learning. Implemented Q-learning and SARSA algorithms, and trained a deep RL agent using Unity ML-Agents for a space-invaders-style game.",
+      "github_url": "https://github.com/rmit-computing-technologies/gait-2024-a3-team-3-cosc2527-24",
+      "skills": ["C#", "Unity", "Reinforcement Learning", "Q-learning", "SARSA", "ML-Agents", "Group work"]
+    },
+    {
+      "id": 12,
+      "name": "Sense HAT Programming",
+      "description": "Python assignment using a RaspberryPi and SenseHAT. Handled sensor data, data visualization, and joystick input for interactive features.",
+      "github_url": "https://github.com/COSC2764-2755/individual-assignment-python-and-sense-hat-programming-Gigiphiliac",
+      "skills": ["Python", "RaspberryPi", "SQLite", "Data visualisation libraries: Matplotlib, Plotly"]
+    },
+    {
+      "id": 13,
+      "name": "Scooter Management Platform",
+      "description": "Developed a scooter management platform integrating Python, Flask, and RaspberryPi. Features included booking using Google Calendar API, a CLI for scooter operations, and database management with Google Cloud SQL.",
+      "github_url": null,
+      "skills": ["Python", "RaspberryPi (SenseHat)", "Google APIs: Cloud SQL, Calendar, Maps", "Flask", "RESTful API", "Websockets", "Unit testing", "Sphinx documentation", "Group work"]
+    },
+    {
+      "id": 14,
+      "name": "Scooter Management Platform - Part 2",
+      "description": "Extended the scooter management platform with QR-code unlock/lock features, role-based access (engineer and admin), and email notifications. Added scripts for simplifying the launch process and use report generation.",
+      "github_url": null,
+      "skills": ["QR-code libraries", "Bash", "Matplotlib", "Email API", "Group work"]
+    }
+  ]
+  

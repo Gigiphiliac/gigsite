@@ -1,0 +1,11 @@
+.home-container {
+  display: flex;
+}
+
+.home-container > * {
+  flex: 1;
+}
+
+.home-container > :first-child {
+  max-width: 250px; /* width for sidebar */
+}
