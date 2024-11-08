@@ -1,6 +1,17 @@
+.project-container {
+  max-width: 400px;
+}
+
+
+.project-title {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+}
+
 .project-link-image {
-  margin-left: 1em;
-  height: 40px;
+  height: 25px;
+  width: auto;
 }
 
 .project-skills {

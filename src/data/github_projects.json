@@ -23,7 +23,7 @@
     {
       "id": 4,
       "name": "Job Manager Functions",
-      "description": "Implemented functions (addJob and updateJob) with JUnit tests in a small assignment. Used Eclipse IDE and learned about proper .gitignore usage.",
+      "description": "Implemented functions (addJob and updateJob) with JUnit tests in a small assignment. Used Eclipse IDE (it sucked) and upon reflection, I didn't know how to use a .gitignore properly.",
       "github_url": "https://github.com/Gigiphiliac/job-manager",
       "skills": ["Java", "JUnit"]
     },
@@ -87,14 +87,14 @@
       "id": 13,
       "name": "Scooter Management Platform",
       "description": "Developed a scooter management platform integrating Python, Flask, and RaspberryPi. Features included booking using Google Calendar API, a CLI for scooter operations, and database management with Google Cloud SQL.",
-      "github_url": null,
-      "skills": ["Python", "RaspberryPi (SenseHat)", "Google APIs: Cloud SQL, Calendar, Maps", "Flask", "RESTful API", "Websockets", "Unit testing", "Sphinx documentation", "Group work"]
+      "github_url": "https://github.com/COSC2764-2755/group-assignment-part-1-group4",
+      "skills": ["Python", "RaspberryPi (w/ SenseHat)", "Google APIs: Cloud SQL, Calendar, Maps", "Flask", "RESTful API", "Websockets", "Unit testing", "Sphinx documentation", "Group work"]
     },
     {
       "id": 14,
       "name": "Scooter Management Platform - Part 2",
       "description": "Extended the scooter management platform with QR-code unlock/lock features, role-based access (engineer and admin), and email notifications. Added scripts for simplifying the launch process and use report generation.",
-      "github_url": null,
+      "github_url": "https://github.com/COSC2764-2755/group-assignment-part-2-group4",
       "skills": ["QR-code libraries", "Bash", "Matplotlib", "Email API", "Group work"]
     }
   ]

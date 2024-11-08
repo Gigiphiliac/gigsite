@@ -1,15 +1,19 @@
 .projects-home-container {
   display: flex;
-}
-
-.projects-home-container > * {
-  flex: 1;
-}
-
-.projects-home-container > :first-child {
-  max-width: 200px; /* width for sidebar */
+  background: linear-gradient(
+    135deg,
+    rgba(255, 0, 0, 0.3) 0%,
+    rgba(48, 0, 255, 0.3) 50%,
+    rgba(255, 0, 0, 0.3) 100%
+  );
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  min-height: 100vh;
 }
 
 .projects-home-content-container {
-  margin: 1em;
+  margin-left: calc(200px + 2em);
+  padding: 1em;
+  flex: 1;
 }

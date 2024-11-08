@@ -1,11 +1,10 @@
 import "./ProjectList.css";
-import projectsJSON from "../../data/github_projects.json";
 import Project from "../Project/Project";
 
-function ProjectList() {
+function ProjectList({ projects }) {
   return (
-    <div>
-      {projectsJSON.map((project) => (
+    <div className="project-list-container">
+      {projects.map((project) => (
         <Project
           id={project.id}
           name={project.name}
